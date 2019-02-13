@@ -1,0 +1,15 @@
+
+body{
+    background: #777
+}
+
+#body{
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+color: yellowgreen;
+background: #777;
+width: 960px;
+font-size: 18px;
+margin: auto;
+}
+
+
