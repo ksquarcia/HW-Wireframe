@@ -22,8 +22,6 @@ body{
 }
 
 
-
-
 #header{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -39,5 +37,19 @@ body{
     margin-bottom: 20px;
     float: left;
 
+}
+
+#article{
+    width: 94%;
+    height: 215px;
+    margin: 0px 3% 0px 3%;
+    background: #777;
+    color: #ebebeb;
+    padding-bottom: 10px;
+}
+
+
+#footer{
+    clear: both;
 }
 
