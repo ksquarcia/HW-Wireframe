@@ -3,13 +3,33 @@ body{
     background: #777
 }
 
-#body{
+#content{
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-color: yellowgreen;
+color: red;
 background: #777;
 width: 960px;
 font-size: 18px;
 margin: auto;
 }
 
+
+#header, #nav, #footer {
+width: 100%;
+height: 90px;
+background: #ebebeb;
+line-height: 90px;
+text-align: center;
+}
+
+
+
+
+#header{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nav{
+    
+}
 
